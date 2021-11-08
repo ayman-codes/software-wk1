@@ -24,3 +24,4 @@ What is used in the Diagram
 
 
 **Part 2 - Is done by - Ali Ibrahimov**
+Ali Ibrahimov 119200011.
