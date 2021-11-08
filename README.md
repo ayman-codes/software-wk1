@@ -8,10 +8,15 @@ What is a Use Case Diagram?
 - shows a system or application, then it show the people or actors that interact with it, then it shows a basic flow of what the system does. It’s great to simplify a complex idea. 
 
 What is used in the Diagram
+
 •	Systems – it’s whatever you’re developing, could be an app or a website etc.
+
 •	Primary actor – Initiates the use of the system
+
 •	Secondary actor – Reactionary
+
 •	Base use case – Requires an included use case to be executed and usually connected with a dotted line
+
 •	Extend use case – Will only happen if certain requirement are met.
 
 
