@@ -1,7 +1,7 @@
 # software-wk1
 This is a repository to upload software engineering concept worksheet.
 
-Part 1 - Is done by Mohammed Obidou 119200016
+**Part 1 - Is done by Mohammed Obidou 119200016**
 The following is a use case diagram for dental hospital appointment.
 
 What is a Use Case Diagram?
@@ -22,4 +22,5 @@ What is used in the Diagram
 
 
 
-Part 2 - Is done by - Ali Ibrahimov
+
+**Part 2 - Is done by - Ali Ibrahimov**
