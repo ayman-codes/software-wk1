@@ -20,4 +20,6 @@ What is used in the Diagram
 •	Extend use case – Will only happen if certain requirement are met.
 
 
-Part 2 - Is done by -
+
+
+Part 2 - Is done by - Ali Ibrahimov
