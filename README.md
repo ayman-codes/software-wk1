@@ -23,5 +23,5 @@ What is used in the Diagram
 
 
 
-**Part 2 - Is done by - Ali Ibrahimov**
+**Part 2 - Is done by - Ali Ibrahimov 119200011**
 Ali Ibrahimov 119200011.
